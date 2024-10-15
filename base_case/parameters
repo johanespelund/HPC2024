@@ -1,0 +1,16 @@
+L_y 0.75;
+L_x 0.75;
+L_z 0.75;
+N 126;
+turbulence true;
+RASModel RNGkEpsilon;
+simulationType RAS;
+p_outlet 101325;
+n_processors 256;
+Ra 0.0;
+eps 0.0;
+T_right 283.15;
+T_left 383.15;
+T_avg 333.15;
+M 28.96;
+nCells 1236807;
